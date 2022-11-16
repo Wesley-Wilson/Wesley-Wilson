@@ -6,6 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wesley-Wilson&color=yellow" alt="Profile views" /> </p>
 
+- 🔥 Web developer and student focused on learning about various programming technologies
+
+- 🔭 I am currently studying in [Proa](https://www.proa.org.br/)
+
+- 💬 Ask me about **JavaScript, HTML, CSS, FIGMA, React**
+
+
 <div>
   <a href="https://github.com/Wesley-Wilson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wesley-Wilson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
