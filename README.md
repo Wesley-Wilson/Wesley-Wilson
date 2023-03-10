@@ -2,7 +2,7 @@
 
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/Wesley-Wilson/Wesley-Wilson/master/hi.gif" height="30px">, I'm Wesley Wilson</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wesley-Wilson&color=yellow" alt="Profile views" /> </p>
 
