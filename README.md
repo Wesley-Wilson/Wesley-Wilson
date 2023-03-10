@@ -2,36 +2,32 @@
 
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Wesley Wilson</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/Wesley-Wilson/Wesley-Wilson/master/hi.gif" height="30px">, I'm Wesley Wilson</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wesley-Wilson&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Web developer and student focused on learning about various programming technologies
+# 👨🏾‍💼 Hi, My name is Wesley Wilson
 
-- 🔭 I am currently studying in [Proa](https://www.proa.org.br/)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/wesley-wilsons/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, FIGMA, React**
+## About me
+
+👩🏻‍💻   I'm a Front-End Developer! 📱
+
+:page_with_curl: Graduated in systems development at Etec Jardim Ângela and in web development at Instituto PROA.
+ I'm currently studying javascript daily, I have great ux/ui skills using FIGMA software.
+👩🏻‍🎤.
 
 
-<div>
-  <a href="https://github.com/Wesley-Wilson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wesley-Wilson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Wilson&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Contact me:
- 
-<div> 
-  <a href="https://instagram.com/smok1ey" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:wesleymkxbeta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wesley-wilsons/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+## Languages and Technologies I use daily
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+
+
+Made by [Wesley Wilson](https://github.com/Wesley-Wilson)  ♥️
