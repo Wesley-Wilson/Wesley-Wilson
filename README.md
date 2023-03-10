@@ -1,6 +1,6 @@
 
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Wesley-Wilson/e7d3eb18d400e951c7d803fbb4c57f89/raw/2481ca7971a2a75dfc4615a5e5e6a2125cecac92/githubcard.svg"/>
+
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Wesley Wilson</h1>
 
