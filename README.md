@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wesley-Wilson&color=yellow" alt="Profile views" /> </p>
 
-# 👨🏾‍💼 Hi, My name is Wesley Wilson
+# Hi, My name is Wesley Wilson
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/wesley-wilsons/)
 
