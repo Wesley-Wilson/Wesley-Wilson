@@ -31,3 +31,5 @@
 
 
 Made by [me](https://github.com/Wesley-Wilson)  ♥️
+
+![snake gif](https://github.com/Wesley-Wilson/Wesley-Wilson/blob/output/github-contribution-grid-snake.svg)
