@@ -14,8 +14,7 @@
 
 👩🏻‍💻   I'm a Front-End Developer! 📱
 
-:page_with_curl: Graduated in systems development at Etec Jardim Ângela and in web development at Instituto PROA.
- I'm currently studying javascript daily, I have great ux/ui skills using FIGMA software.
+:page_with_curl: I have a degree in systems development from Etec Jardim Ângela and in web development from Instituto PROA. Currently, I am studying at the University of Mogi das Cruzes (UMC), where I am improving my skills in SQL and Python.
 👩🏻‍🎤.
 
 
